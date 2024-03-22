@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "TemplateStudio (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "TemplateStudio (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
